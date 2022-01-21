@@ -1,0 +1,19 @@
+{
+  "name": "to-do-list-api",
+  "version": "1.0.0",
+  "description": "A simple ToDo List project to show how restify and Node.js work.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"to-do-list\"",
+    "\"node\"",
+    "\"restify\""
+  ],
+  "author": "Ivan Júnior",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^8.6.0"
+  }
+}
