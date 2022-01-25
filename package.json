@@ -15,5 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "restify": "^8.6.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.4"
   }
 }
